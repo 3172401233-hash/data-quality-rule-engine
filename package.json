@@ -1,0 +1,10 @@
+{
+  "name": "data-quality-rule-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Data quality rule engine with cross-row constraints, partitioned evaluation, quarantine and rule dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
